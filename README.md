@@ -5,5 +5,7 @@
 - Com ele consegui praticar e aprender algumas coisas a mais sobre HTML e CSS. 
 - E também mexi no figma.
 
+<https://guilherme-goncalves-de-souza.github.io/Landing-Page-com-HTML-e-CSS/>
+
 ![image](https://user-images.githubusercontent.com/85903509/148706248-ac355703-0b93-46fa-a904-de82ae4d8396.png)
 
